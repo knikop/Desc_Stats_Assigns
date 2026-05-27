@@ -30,17 +30,22 @@ The core of the assignment involves writing SQL queries for Descriptive Statisti
 The final tasks involve Filtering and Conditional Queries to extract specific performance tiers. This includes identifying rows where values exceed the overall average and retrieving the top and bottom 10 values for specific numerical columns. The final submission is a comprehensive package including the SQLite database and a document containing all SQL statements and their corresponding output results.
 
 #### Key Skills:
+
 1. Data Cleaning and Preprocessing
    - Data Standardization: Cleaning and standardizing categorical data, such as converting text to proper case and unifying inconsistent country names (e.g., "usa" to "USA").
    - Integrity Management: Identifying and removing rows with missing or invalid data, and performing duplicate elimination.
    - Data Validation: Implementing constraints to ensure data entry accuracy, such as restricting satisfaction scores to a specific 1–10 range.
    - File Importing & Formatting: Importing various file formats (CSV, Tab-delimited TXT) into analytical environments and fixing technical formatting issues like extra tabs or spaces.
+
 2. Statistical Analysis
+   - Descriptive Statistics: Calculating measures of central tendency (Mean, Median, Mode) and measures of dispersion (Standard Deviation, Variance, Range) using both Excel formulas and SQL queries.
+   - Grouped Aggregations: Performing segmented analysis to find averages, counts, and extremes (min/max) based on specific categories like product type or gender.
+   - Metric Development: Calculating custom business KPIs, such as profit margins, total revenue for specific regional sub-sections, and percentage-based distributions.
 
-3. SQL & Database Management
+4. SQL & Database Management
 
-4. Data Visualization
+5. Data Visualization
 
-5. Tools & Technologies
+6. Tools & Technologies
 
    
