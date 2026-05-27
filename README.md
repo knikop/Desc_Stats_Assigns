@@ -24,3 +24,5 @@ Finally, the project emphasizes Data Visualization to communicate insights effec
 This project transitions data analysis into SQL database environments (such as SQLite or PostgreSQL) to handle larger, more complex datasets. The primary dataset used is the Amazon Sales Dataset, which contains product listings, discounted pricing, user ratings, and review details. Alternatively, a custom CSV with at least 500 rows and multiple numerical columns may be used.
 
 The technical workflow begins with Data Loading and Basic Exploration. This includes creating a new database, importing the CSV as a table, and executing metadata queries to verify row counts and column types. This stage ensures the data is correctly structured and ready for deep querying.
+
+The core of the assignment involves writing SQL queries for Descriptive Statistics. Queries are developed to calculate the count, minimum, maximum, average, median, and standard deviation for numerical columns like "discounted_price" or "rating". Furthermore, Grouped Statistics are used to aggregate these metrics by categorical variables, such as calculating the average rating or total count per product category.
