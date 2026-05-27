@@ -53,5 +53,6 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
    - Insight Interpretation: Summarizing complex data findings into brief, actionable interpretations that describe what a visualization reveals about the business.
 
 5. Tools & Technologies
-
+   - Microsoft Excel: Advanced formula use, worksheet management, and professional table styling.
+   - SQL Engines: Proficiency in systems such as SQLite, PostgreSQL, or MySQL for data exploration and descriptive statistics.
    
