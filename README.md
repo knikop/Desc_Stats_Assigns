@@ -28,3 +28,16 @@ The technical workflow begins with Data Loading and Basic Exploration. This incl
 The core of the assignment involves writing SQL queries for Descriptive Statistics. Queries are developed to calculate the count, minimum, maximum, average, median, and standard deviation for numerical columns like "discounted_price" or "rating". Furthermore, Grouped Statistics are used to aggregate these metrics by categorical variables, such as calculating the average rating or total count per product category.
 
 The final tasks involve Filtering and Conditional Queries to extract specific performance tiers. This includes identifying rows where values exceed the overall average and retrieving the top and bottom 10 values for specific numerical columns. The final submission is a comprehensive package including the SQLite database and a document containing all SQL statements and their corresponding output results.
+
+#### Key Skills:
+1. Data Cleaning and Preprocessing
+
+2. Statistical Analysis
+
+3. SQL & Database Management
+
+4. Data Visualization
+
+5. Tools & Technologies
+
+   
