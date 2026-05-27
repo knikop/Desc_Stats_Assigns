@@ -53,6 +53,11 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
    - Insight Interpretation: Summarizing complex data findings into brief, actionable interpretations that describe what a visualization reveals about the business.
 
 5. Tools & Technologies
-   - Microsoft Excel: Advanced formula use, worksheet management, and professional table styling.
+   - Microsoft Excel: This was the primary tool for cleaning, managing, and analyzing datasets in the first two assignments.
+      Specifically used for:
+         - Advanced Formulas: Using functions like AVERAGE, MEDIAN, STDEV.S, COUNTIF, and COUNTA for statistical calculations.
+         - Data Validation & Cleaning: Implementing rules to ensure data integrity and manually cleaning tab-delimited text files for import.
+         - Worksheet Management: Organizing complex projects into multiple functional tabs such as Raw_Data, Cleaned_Data, Statistics, and Totals.
+
    - SQL Engines: Proficiency in systems such as SQLite, PostgreSQL, or MySQL for data exploration and descriptive statistics.
    
