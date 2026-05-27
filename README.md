@@ -42,7 +42,10 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
    - Grouped Aggregations: Performing segmented analysis to find averages, counts, and extremes (min/max) based on specific categories like product type or gender.
    - Metric Development: Calculating custom business KPIs, such as profit margins, total revenue for specific regional sub-sections, and percentage-based distributions.
 
-4. SQL & Database Management
+3. SQL & Database Management
+   - Relational Database Operations: Creating databases, importing tables from external datasets, and verifying data structure through metadata queries.
+   - Advanced Querying: Writing complex SQL statements to filter data based on conditional logic (e.g., retrieving records that exceed an overall average).
+   - Data Ranking: Using SQL to isolate top and bottom performance tiers through ordering and limit-based queries.
 
 5. Data Visualization
 
