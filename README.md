@@ -31,7 +31,10 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
 
 #### Key Skills:
 1. Data Cleaning and Preprocessing
-
+   - Data Standardization: Cleaning and standardizing categorical data, such as converting text to proper case and unifying inconsistent country names (e.g., "usa" to "USA").
+   - Integrity Management: Identifying and removing rows with missing or invalid data, and performing duplicate elimination.
+   - Data Validation: Implementing constraints to ensure data entry accuracy, such as restricting satisfaction scores to a specific 1–10 range.
+   - File Importing & Formatting: Importing various file formats (CSV, Tab-delimited TXT) into analytical environments and fixing technical formatting issues like extra tabs or spaces.
 2. Statistical Analysis
 
 3. SQL & Database Management
