@@ -59,4 +59,5 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
       - Worksheet Management: Organizing complex projects into multiple functional tabs such as Raw_Data, Cleaned_Data, Statistics, and Totals.
 
    - SQL Engines: Proficiency in systems such as SQLite, PostgreSQL, or MySQL for data exploration and descriptive statistics.
-   
+
+   - Data Formats: Worked with CSV and Tab-Delimited text files.
