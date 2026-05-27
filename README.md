@@ -19,3 +19,5 @@ A critical component of this project is the Data Cleaning and Importing process,
 The analysis phase requires calculating specific business Totals and Calculated Cells. This includes determining the total units sold, identifying the top-performing product category, and calculating the total profit for specific individuals based on revenue and profit margins. Analysts also calculate targeted metrics, such as total revenue for specific categories like "Clothing" within the North region.
 
 Finally, the project emphasizes Data Visualization to communicate insights effectively. It requires the creation of at least five different chart types—such as Histograms, Scatter Plots, and Box & Whisker Plots—to visualize distribution, relationships, and regional revenue trends. Each chart must include a professional title, labeled axes, and a brief interpretation describing the specific insights revealed by the data.
+
+#### Assignment 3: SQL Database and Amazon Sales Analysis
