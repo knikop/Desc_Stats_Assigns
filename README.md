@@ -11,4 +11,7 @@ The final segment involves filtering and visual formatting to highlight key busi
 
 #### Assignment 2: Sales Performance Data Analysis
 This assignment focuses on analyzing a tab-delimited sales dataset to evaluate regional performance, salesperson productivity, and product trends. The dataset includes detailed transaction records with columns for Date, Region, Salesperson, Product Category, Units Sold, Revenue, Profit Margin, and Customer Rating.
+
 A critical component of this project is the Data Cleaning and Importing process, which must be documented in a summary worksheet. This involves handling duplicate elimination, fixing invalid values that fall outside expected ranges, and managing missing data. Special attention is paid to technical formatting issues, such as removing extra tabs and spaces that may interfere with the data import.
+
+The analysis phase requires calculating specific business Totals and Calculated Cells. This includes determining the total units sold, identifying the top-performing product category, and calculating the total profit for specific individuals based on revenue and profit margins. Analysts also calculate targeted metrics, such as total revenue for specific categories like "Clothing" within the North region.
