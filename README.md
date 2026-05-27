@@ -4,9 +4,11 @@
 
 #### Assignment 1: Customer Satisfaction Survey Analysis
 This project involves acting as a Data Analyst to process and analyze a dataset containing 200 customer satisfaction survey results. The primary goal is to use Excel to clean, manage, and perform descriptive statistical analysis on variables such as age, gender, satisfaction scores, and time spent on the company website.
+
 The initial phase focuses on data cleaning and standardization within a dedicated "Cleaned_Data" worksheet. Key tasks include standardizing country names, removing rows with missing or invalid data, converting text to proper case, and implementing Data Validation to ensure satisfaction scores remain within a 1–10 range. A legend table is also required to define each variable type for clarity.
 
 Once the data is cleaned, the project moves into Descriptive Statistics, where various Excel formulas are used to calculate central tendency and dispersion. Specific metrics computed include the mean, median, and mode for age, as well as the standard deviation and variance for satisfaction scores. Additionally, the analysis calculates the percentage of female respondents and site usage extremes.
+
 The final segment involves filtering and visual formatting to highlight key business insights. The data is filtered to isolate "High Satisfaction" customers (scores ≥ 8) from specific regions like the USA or UK. Conditional formatting is then applied to visually flag low satisfaction scores and high time-on-site values, while professional table styles and frozen headers ensure the final report is readable and well-organized.
 
 #### Assignment 2: Sales Performance Data Analysis
