@@ -10,3 +10,4 @@ Once the data is cleaned, the project moves into Descriptive Statistics, where v
 The final segment involves filtering and visual formatting to highlight key business insights. The data is filtered to isolate "High Satisfaction" customers (scores ≥ 8) from specific regions like the USA or UK. Conditional formatting is then applied to visually flag low satisfaction scores and high time-on-site values, while professional table styles and frozen headers ensure the final report is readable and well-organized.
 
 #### Assignment 2: Sales Performance Data Analysis
+This assignment focuses on analyzing a tab-delimited sales dataset to evaluate regional performance, salesperson productivity, and product trends. The dataset includes detailed transaction records with columns for Date, Region, Salesperson, Product Category, Units Sold, Revenue, Profit Margin, and Customer Rating.
