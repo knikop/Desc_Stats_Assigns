@@ -47,8 +47,11 @@ The final tasks involve Filtering and Conditional Queries to extract specific pe
    - Advanced Querying: Writing complex SQL statements to filter data based on conditional logic (e.g., retrieving records that exceed an overall average).
    - Data Ranking: Using SQL to isolate top and bottom performance tiers through ordering and limit-based queries.
 
-5. Data Visualization
+4. Data Visualization
+   - Advanced Charting: Creating a diverse range of visualizations, including Histograms, Scatter Plots, Box & Whisker Plots, and TreeMaps, to reveal distributions, trends, and relationships.
+   - Conditional Formatting: Using visual cues (e.g., color-coding) to highlight critical values, such as low satisfaction scores or high engagement times.
+   - Insight Interpretation: Summarizing complex data findings into brief, actionable interpretations that describe what a visualization reveals about the business.
 
-6. Tools & Technologies
+5. Tools & Technologies
 
    
