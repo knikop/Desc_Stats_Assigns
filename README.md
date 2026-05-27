@@ -21,6 +21,8 @@ The analysis phase requires calculating specific business Totals and Calculated 
 Finally, the project emphasizes Data Visualization to communicate insights effectively. It requires the creation of at least five different chart types—such as Histograms, Scatter Plots, and Box & Whisker Plots—to visualize distribution, relationships, and regional revenue trends. Each chart must include a professional title, labeled axes, and a brief interpretation describing the specific insights revealed by the data.
 
 #### Assignment 3: SQL Database and Amazon Sales Analysis
+###### Dataset: amazon.csv  
+####### LINK: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 This project transitions data analysis into SQL database environments (such as SQLite or PostgreSQL) to handle larger, more complex datasets. The primary dataset used is the Amazon Sales Dataset, which contains product listings, discounted pricing, user ratings, and review details. Alternatively, a custom CSV with at least 500 rows and multiple numerical columns may be used.
 
 The technical workflow begins with Data Loading and Basic Exploration. This includes creating a new database, importing the CSV as a table, and executing metadata queries to verify row counts and column types. This stage ensures the data is correctly structured and ready for deep querying.
